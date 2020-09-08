@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**jozue06/jozue06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jozue06** is ✨ _special_ ✨ 
 
 Here are some ideas to get you started:
 
