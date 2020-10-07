@@ -1,18 +1,18 @@
 ### Hi there 👋
 
 
-**jozue06** is ✨ _special_ ✨ 
+**jozue06** is ✨ _special stuff_ ✨ 
 
-Here are some ideas to get you started:
+Here are some ideas to get your stuff started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... stuff
+- 🌱 I’m currently learning ... stuff
+- 👯 I’m looking to collaborate on ... stuff
+- 🤔 I’m looking for help with ... stuff
+- 💬 Ask me about ... stuff
+- 📫 How to reach me: ... stuff?
+- 😄 Pronouns: ... stuff
+- ⚡ Fun fact: ... stuff
 
 ## Personal
 
